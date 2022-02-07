@@ -1,0 +1,17 @@
+#photo{
+  width: 20%;
+  float: left;
+  padding: 1vw;
+}
+img {
+width: 100%;
+border-radius: 50%;
+}
+
+#text {
+  width: 75%;
+  float: left;
+  font-size: min(max(5px, 1.25vw), 24px);
+  text-align: justify;
+  padding: 1vw;
+}

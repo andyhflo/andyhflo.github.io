@@ -1,20 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
 
-$primary: rgb(111,0,255);
+$primary: green;
+$secondary: rgb(180, 230, 180);
 
 body {
   margin: 0;
   font-size: 18px;
+  background: $secondary;
 }
 
 .container {
-width: 80%;
+width: 100%;
 margin: 0 auto;
 }
 
 header {
   background: $primary;
-  padding: 1em 0;
+  padding: 1em;
   a {
     color: white;
     text-decoration: none;
