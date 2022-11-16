@@ -1,0 +1,1 @@
+body{margin:0;font-size:18px;background:rgb(180,230,180)}.container{width:100%;margin:0 auto}header{background:green;padding:1em}header a{color:#fff;text-decoration:none}header a.logo{font-weight:700}header nav{float:right}header nav ul{list-style-type:none;margin:0;display:flex}header nav ul li a{padding:1em}header nav ul li a:hover{background:#004d00}
