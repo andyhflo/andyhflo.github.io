@@ -106,9 +106,14 @@
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
-          "options": {}
+          "options": {
+            "baseHref": "https://https://andyhflo.github.io/",
+            "name": "Andrew H Florian",
+            "email": "floriana18@students.ecu.edu"
+          }
         }
       }
     }
-  }
+  },
+  "defaultProject": "andyhflo"
 }
